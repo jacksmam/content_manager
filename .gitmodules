@@ -1,0 +1,3 @@
+[submodule "nogame"]
+	path = nogame
+	url = git@github.com:jacksmam/nogame.git
